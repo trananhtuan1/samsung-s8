@@ -1,5 +1,6 @@
 body {
-  font-family: 'SamsungOne',arial;
+  font-family: 'SamSung',arial;
+  font-weight: 400;
 }
 
 .container {
@@ -26,7 +27,7 @@ body {
   display: block;
   color: #fff;
   height: 37px;
-  line-height: 35px;
+  line-height: 37px;
   font-size: 13px;
   text-decoration: none;
   padding: 0 12px;

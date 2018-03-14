@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'SamSung';
+  src: url('SamsungOne-400.eot');
+  src: url('SamsungOne-400.woff2') format('woff2'),
+       url('SamsungOne-400.woff') format('woff'),
+       url('SamsungOne-400.ttf') format('truetype'),
+       url('SamsungOne-400.svg#SamSung') format('svg'),
+       url('SamsungOne-400.eot?#iefix') format('embedded-opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SamSung';
+  src: url('SamsungSharpSans-Medium.eot');
+  src: url('SamsungSharpSans-Medium.woff2') format('woff2'),
+       url('SamsungSharpSans-Medium.woff') format('woff'),
+       url('SamsungSharpSans-Medium.ttf') format('truetype'),
+       url('SamsungSharpSans-Medium.svg#SamSung') format('svg'),
+       url('SamsungSharpSans-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'SamSung';
+  src: url('SamsungOne-700.eot');
+  src: url('SamsungOne-700.woff2') format('woff2'),
+       url('SamsungOne-700.woff') format('woff'),
+       url('SamsungOne-700.ttf') format('truetype'),
+       url('SamsungOne-700.svg#SamSung') format('svg'),
+       url('SamsungOne-700.eot?#iefix') format('embedded-opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'iCielSamsung';
+  src: url('iCielSamsungSharpSans-Bold.eot');
+  src: url('iCielSamsungSharpSans-Bold.woff2') format('woff2'),
+       url('iCielSamsungSharpSans-Bold.woff') format('woff'),
+       url('iCielSamsungSharpSans-Bold.ttf') format('truetype'),
+       url('iCielSamsungSharpSans-Bold.svg#SamSung') format('svg'),
+       url('iCielSamsungSharpSans-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SamSungV2';
+  src: url('samsungsharpsans-bold_v2.eot');
+  src: url('samsungsharpsans-bold_v2.woff2') format('woff2'),
+       url('samsungsharpsans-bold_v2.woff') format('woff'),
+       url('samsungsharpsans-bold_v2.ttf') format('truetype'),
+       url('samsungsharpsans-bold_v2.svg#SamSung') format('svg'),
+       url('samsungsharpsans-bold_v2.eot?#iefix') format('embedded-opentype');
+  font-weight: 700;
+  font-style: normal;
+}
