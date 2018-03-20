@@ -7,6 +7,34 @@ img {
   max-width: 100%;
 }
 
+.btn-primary {
+  padding-left: 40px;
+  padding-right: 40px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 12px;
+  letter-spacing: 2.1px;
+  font-weight: bold;
+  transition: all .35s ease-in-out;
+  display: inline-block;
+  text-align: center;
+  background-color: transparent;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  text-transform: uppercase;
+  border-radius: 58px;
+  box-sizing: border-box;
+  color: #fff;
+  border-color: #fff;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: #fff;
+  color: #000;
+}
+
 .container {
   max-width: 1400px;
   margin-left: auto;
@@ -60,6 +88,10 @@ img {
 /* Banner */
 .banner {
   position: relative;
+}
+
+.banner .bg {
+  display: block;
 }
 
 .banner .phone {
@@ -119,4 +151,85 @@ img {
   top: 95px;
   right: 60px;
   font-size: 26px;
+}
+
+/* Section screen  Man hinh vo cuc*/
+.section-screen {
+  background: #000;
+  position: static;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+.section-landing .introduction {
+  font-size: 28px;
+  line-height: 36px;
+  font-family: 'iCielSamsung';
+  color: #fff;
+  width: 810px;
+  margin: 0 auto;
+  padding: 150px 0 60px 0;
+}
+
+.section-landing .title-sm {
+  font-size: 22px;
+  line-height: 24px;
+}
+
+.section-landing .title {
+  font-size: 56px;
+  line-height: 64px;
+  max-width: 750px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.section-landing .description {
+  max-width: 840px;
+  margin: 0 auto;
+  margin: 25px auto 0;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.section-landing .info-list {
+  text-align: center;
+}
+
+.section-landing .info-list .info-list-item {
+  display: inline-block;
+  padding: 0 30px;
+}
+
+.section-landing .info-list .info-list-item .top img {
+  width: 50%;
+}
+
+.section-landing .list-description li {
+  font-size: 16px;
+  line-height: 22px;
+  list-style: none;
+}
+
+.section-landing .wrap-image {
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.section-landing .wrap-image img {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+}
+
+.section-landing .wrap-image .video {
+  max-width: 100%;
 }
