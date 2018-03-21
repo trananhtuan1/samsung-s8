@@ -21,6 +21,7 @@
 .header .wrap-btn-buy-now {
     width: 50%;
     float: right;
+    text-align: right;
    
 
 }
@@ -34,9 +35,65 @@
     padding-right: 20px;
     display: inline-block;
     color: white;
+   
 
 }
 .header .logo h2 {
     color: white;
     font-size: 20px;   
+   
 }
+
+/*dear*/
+
+.dear {
+    position: relative;
+ 
+
+   
+
+
+
+}
+
+.dear .anh {
+    position:absolute;
+    right: 59px;
+    bottom: 89px;
+
+}
+
+.dear .tieude {
+   
+    
+   position : static ;
+   
+    
+    
+    
+
+}
+
+.dear .tieude h1 {
+    position: absolute;
+    top: 20px;
+    color: white;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 85px;
+  
+
+    
+}
+
+.dear .note {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 25px;
+    color: white;
+
+}
+
+
