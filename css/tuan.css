@@ -96,4 +96,78 @@
 
 }
 
+/*header2*/
+
+
+.header2 {
+    position: relative;
+
+}
+
+.header2 .nen {
+    
+}
+
+.header2 .anh {
+    position: absolute;
+    z-index: 1;
+    bottom : 213px;
+    right: 260px;
+    
+    
+
+}
+
+.header2 .anhh {
+    position: absolute;
+    
+    bottom : 280px; 
+    left: 656px ;
+  
+   
+
+}
+
+.header2 .SPen h4 {
+    position: absolute;
+    bottom: 1921px;
+    color: white;
+    right :0;
+    left: 0;
+    text-align: center;
+    font-size: 21px;
+
+
+}
+
+.header2 .butspen h1 {
+    position: absolute;
+    bottom: 1838px;
+    color: white;
+    right :0;
+    left: 0;
+    text-align: center;
+
+}
+
+.header2 .noidung h5 {
+    position: absolute;
+    bottom: 1768px;
+    color: white;
+    right :0;
+    left: 0;
+    text-align: center;
+
+
+}
+
+.header2 .noidung h6 {
+    position: absolute;
+    bottom: 1741px;
+    color: white;
+    right :0;
+    left: 0;
+    text-align: center;
+
+}
 
