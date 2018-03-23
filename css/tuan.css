@@ -130,44 +130,74 @@
 
 .header2 .SPen h4 {
     position: absolute;
-    bottom: 1921px;
+    bottom: 1852px;
     color: white;
     right :0;
     left: 0;
     text-align: center;
-    font-size: 21px;
+    font-size: 27px;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
 
 
 }
 
 .header2 .butspen h1 {
     position: absolute;
-    bottom: 1838px;
+    bottom: 1705px;
     color: white;
     right :0;
     left: 0;
     text-align: center;
+    font-size: 50px;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
 
 }
 
 .header2 .noidung h5 {
     position: absolute;
-    bottom: 1768px;
+    bottom: 1602px;
     color: white;
     right :0;
     left: 0;
     text-align: center;
+    font-size: 17px;
+    font-family: 'SamsungOne',arial;
+    line-height: 30px;
 
 
 }
 
 .header2 .noidung h6 {
     position: absolute;
-    bottom: 1741px;
+    bottom: 1571px;
     color: white;
     right :0;
     left: 0;
     text-align: center;
+    font-size: 13px;
+    font-family: 'SamsungOne',arial;
 
+}
+
+.header2 .bam a {
+    background: none;
+    color: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    bottom: 1500px;
+    display: inline-block;
+    border-style:solid;
+    border-radius:58px;
+    border-width: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    max-width: 170px;  
+    font-weight: bold;
+    font-family: 'SamSung',arial;
+    
 }
 
