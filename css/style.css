@@ -199,6 +199,50 @@ img {
   font-size: 20px;
 }
 
+/* three video */
+.three-video:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.three-video .video {
+  width: 33.333%;
+  float: left;
+  position: relative;
+}
+
+.three-video .video .bg {
+  width: 100%;
+  display: block;
+}
+
+.three-video .video .play {
+  position: absolute;
+  z-index: 3;
+  left: 0;
+  right: 0;
+  top:50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+.three-video .video .play img {
+  width: 70px;
+  height: 70px;
+}
+
+.three-video .video .title {
+  margin-top: 0;
+  margin-bottom: 0;
+  position: absolute;
+  z-index: 2;
+  top: 20px;
+  font-size: 20px;
+  line-height: 28px;
+  padding: 0 20px;
+  color: #fff;
+}
+
 /*dear*/
 .dear {
   position: relative;
