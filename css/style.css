@@ -449,3 +449,97 @@ img {
   margin: 0 auto;
 }
 
+/*header5 phone+*/
+
+.header5 {
+  position: relative;
+  display: block;
+  padding-bottom: 500px;
+}
+
+.section-landing .wrap-conten {
+  text-align: center;
+  top: 200px;
+  left: 0;
+  right: 0;
+  color: black;
+}
+
+.section-landing .list-descriptio li {
+  font-size: 16px;
+  line-height: 22px;
+  list-style: none;
+}
+
+.btn-primar {
+  padding-left: 40px;
+  padding-right: 40px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 12px;
+  letter-spacing: 2.1px;
+  font-weight: bold;
+  transition: all .35s ease-in-out;
+  display: inline-block;
+  text-align: center;
+  background-color: transparent;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  text-transform: uppercase;
+  border-radius: 58px;
+  box-sizing: border-box;
+  color: black;
+  border-color: black;
+  text-decoration: none;
+}
+
+.header5 .anh1 {
+  top: 250px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  position: relative;
+  margin-left: 20%;
+  margin-right: -14%;
+}
+
+.header5 .anh2 {
+  top: 250px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  position: relative;
+  margin-right: -9%;
+}
+
+.header5 .anh3 {
+  top: 250px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  position: relative;
+  margin-right: -6%;
+  z-index: 1;
+}
+
+.header5 .anh4 {
+  top: 250px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  position: relative;
+}
+
+/*header6 Smart Switch*/
+
+.header6 {
+  position: relative;
+  display: block;
+  bottom: 50px;
+  text-align: center;
+}
+
+.header6 .anh {
+  margin-top: 40px;
+}
