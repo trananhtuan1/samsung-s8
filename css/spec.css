@@ -1,0 +1,32 @@
+/*header*/
+
+.header1 {
+     
+}
+
+.header1 .dau .tieude {
+    text-align: center;
+    font-size: 70px;
+  
+}
+
+.header1 .dau .gioithieu {
+    font-size: 32px;
+    -webkit-margin-before: 6em;
+    -webkit-margin-after: 2em;
+    border-bottom: 3px solid black;  
+    margin-left: 3%;
+    padding: 18px;
+    text-align: left;
+}
+
+.header1 .dau .mau{
+    margin-left: 3%;
+    font-size: 20px;
+    text-align: left;
+    -webkit-margin-before: -1em;
+}
+
+.header1 .image .nen {
+    margin-left: 33%;
+}
