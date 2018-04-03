@@ -1,0 +1,10 @@
+/*phần dear*/
+
+.dear1 section-landing {
+    clear: both;
+    position: relative;
+}
+
+.dear1 section-landing .anh{
+    margin-bottom: 12px;
+}
