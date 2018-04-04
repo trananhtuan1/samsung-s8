@@ -1,0 +1,57 @@
+/*phần dear*/
+
+.dear1 {
+    position: relative;
+    clear: both;
+    background: black;
+}
+
+.dear1 .anh {
+    position: absolute;
+    z-index: 2;
+    margin-left: -69%;
+    margin-top: 50%;
+   
+}
+
+.dear1 .noidung {
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin-top: -99%;
+    z-index: 2;
+    font-size: 24px;
+    color: white;
+}
+
+.dear1 .noidung .title-sm {
+   font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+   font-size: 27px;
+   margin-bottom: -38px;
+}
+
+.dear1 .noidung .title {
+    font-size: 49px;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+}
+
+.dear1 .noidung .description {
+    font-size: 19px;
+    margin-top: -3%;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+}
+
+.dear1 .noidung .title1 {
+    font-family: 'SamsungOne',arial;  
+    margin-bottom: 35%;      
+}
+
+.dear1 .noidung .title2 {
+    font-family: 'SamsungOne',arial;
+    font-size: 18px;
+}
+
+.dear1 .noidung .tilte3 {
+    font-size: 18px;
+}
