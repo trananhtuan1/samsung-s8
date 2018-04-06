@@ -55,3 +55,28 @@
 .dear1 .noidung .tilte3 {
     font-size: 18px;
 }
+
+/*dear2*/
+
+.dear2 {
+    background: black;
+}
+
+.dear2 .anh3 {
+    margin-left: 19%;
+    margin-top: 42%;
+}
+
+.dear2 .noidung {
+   max-width: 840px;
+   left: 0;
+   right: 0;
+   text-align: center;
+   font-size: 20px;
+   line-height: 30px;
+   color: white;
+   margin-left: 22%;
+}
+
+.dear2 .noidung .title-sm {
+}
