@@ -9,8 +9,11 @@
 .dear1 .anh {
     position: absolute;
     z-index: 2;
-    margin-left: -69%;
-    margin-top: 50%;
+    top: 44%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    margin-right: 48px;
    
 }
 
