@@ -187,6 +187,11 @@ img {
   line-height: 20px;
 }
 
+.header .logo h2 a {
+  color: #fff;
+  text-decoration: none;
+}
+
 .header .wrap-btn-buy-now {
   width: 50%;
   float: right;
