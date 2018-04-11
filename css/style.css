@@ -40,6 +40,44 @@ img {
   color: #000;
 }
 
+.btn-secondary {
+  padding-left: 40px;
+  padding-right: 40px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 12px;
+  letter-spacing: 2.1px;
+  font-weight: bold;
+  transition: all .35s ease-in-out;
+  display: inline-block;
+  text-align: center;
+  background-color: transparent;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  text-transform: uppercase;
+  border-radius: 58px;
+  box-sizing: border-box;
+  color: black;
+  border-color: black;
+  text-decoration: none;
+}
+
+.btn-secondary:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.btn-link {
+  color: #1428a0;
+  text-decoration: underline;
+  font-weight: 700;
+  background: none;
+  border: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .container {
   max-width: 1400px;
   margin-left: auto;
@@ -485,29 +523,6 @@ img {
   font-size: 16px;
   line-height: 22px;
   list-style: none;
-}
-
-.btn-primar {
-  padding-left: 40px;
-  padding-right: 40px;
-  height: 50px;
-  line-height: 50px;
-  font-size: 12px;
-  letter-spacing: 2.1px;
-  font-weight: bold;
-  transition: all .35s ease-in-out;
-  display: inline-block;
-  text-align: center;
-  background-color: transparent;
-  cursor: pointer;
-  border-width: 1px;
-  border-style: solid;
-  text-transform: uppercase;
-  border-radius: 58px;
-  box-sizing: border-box;
-  color: black;
-  border-color: black;
-  text-decoration: none;
 }
 
 .header5 .anh1 {
