@@ -29,25 +29,30 @@
 }
 
 .dear1 .noidung .title-sm {
-   font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
-   font-size: 27px;
-   margin-bottom: -38px;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+    font-size: 30px;
+    margin-bottom: -44px;
+    margin-top: -5%;
 }
 
 .dear1 .noidung .title {
-    font-size: 49px;
+    font-size: 60px;
     font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+    margin-bottom: 25px;
 }
 
 .dear1 .noidung .description {
-    font-size: 19px;
-    margin-top: -3%;
+    font-size: 24px;
+    margin-top: 4%;
     font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+    margin-bottom: -20px;
+
 }
 
 .dear1 .noidung .title1 {
     font-family: 'SamsungOne',arial;  
-    margin-bottom: 35%;      
+    margin-bottom: 35%;    
+    font-size: 40px;  
 }
 
 .dear1 .noidung .title2 {
@@ -57,6 +62,39 @@
 
 .dear1 .noidung .tilte3 {
     font-size: 18px;
+}
+
+.dear1 .icon{
+    display: block;
+    text-align: center;
+}
+
+.dear1 .icon .icon-type{
+    font-size: 12px;
+    padding-left: 0;
+}
+
+.dear1 .icon .icon-type .a{
+    padding: 0;
+    margin: 0;
+    display: inline-table;
+    width: 170px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.dear1 .icon .icon-type .a .b{
+    font-size: 14px;
+    line-height: 20px;
+    color: #fff;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+    margin-top: 18px;
+    padding: 0 10px;
+    margin: 0;
+    padding: 0;
+}
+
+.dear1 .icon .icon-type .a img{
 }
 
 /*dear2*/
@@ -82,6 +120,21 @@
    padding-bottom: 50px;
 }
 
-.dear2 .noidung .title-sm {
-}   
+.dear2 .noidung .title-sm{
+    font-size: 24px;   
+    margin-bottom: -42px; 
+}
+
+.dear2 .noidung .title{
+    font-size: 40px;
+    margin-bottom: 31px;
+}
+
+.dear2 .noidung .description{
+    font-size: 18px;
+}
+
+.dear2 .noidung .description1{
+    font-size: 16px;
+}
 
