@@ -1,0 +1,31 @@
+
+.section-phone {
+  background: #fff;
+  color: #000;
+  text-align: center;
+  padding-top: 125px;
+  padding-bottom: 40px;
+}
+
+.section-landing.section-phone  .title {
+  font-size: 60px;
+  line-height: 68px;
+}
+
+.section-phone  .info-list {
+  margin-top: 60px;
+  padding-bottom: 10px;
+}
+
+.section-phone  .info-list .info-list-item .top img {
+  width: 70px;
+  height: 70px;
+}
+
+.section-phone  .info-list .info-list-item .bottom {
+  line-height: 20px;
+  margin-top: 18px;
+  padding: 0 10px;
+  color: #000;
+  font-weight: bold;
+}
