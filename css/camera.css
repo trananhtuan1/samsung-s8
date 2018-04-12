@@ -101,18 +101,15 @@
 
 .dear2 {
     background: black;
+    text-align: center;
 }
 
 .dear2 .anh3 {
-    margin-left: 19%;
-    margin-top: 42%;
 }
 
 .dear2 .noidung {
    max-width: 840px;
-   left: 0;
-   right: 0;
-   text-align: center;
+   padding-top: 22%;
    font-size: 20px;
    line-height: 30px;
    color: white;
@@ -132,9 +129,15 @@
 
 .dear2 .noidung .description{
     font-size: 18px;
+    margin-bottom: 16px;
 }
 
 .dear2 .noidung .description1{
     font-size: 16px;
+    margin-bottom: 46px;
+}
+
+.noidung {
+    text-align: center;
 }
 
