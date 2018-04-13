@@ -64,17 +64,17 @@
     font-size: 18px;
 }
 
-.dear1 .icon{
+.icon{
     display: block;
     text-align: center;
 }
 
-.dear1 .icon .icon-type{
+.icon .icon-type{
     font-size: 12px;
     padding-left: 0;
 }
 
-.dear1 .icon .icon-type .a{
+.icon .icon-type .a{
     padding: 0;
     margin: 0;
     display: inline-table;
@@ -83,7 +83,7 @@
     vertical-align: top;
 }
 
-.dear1 .icon .icon-type .a .b{
+.icon .icon-type .a .b{
     font-size: 14px;
     line-height: 20px;
     color: #fff;
@@ -129,7 +129,7 @@
 
 .dear2 .noidung .description{
     font-size: 18px;
-    margin-bottom: 16px;
+    margin-bottom: 16px;        
 }
 
 .dear2 .noidung .description1{
@@ -137,7 +137,77 @@
     margin-bottom: 46px;
 }
 
-.noidung {
+.dear3 {
     text-align: center;
+    background: black;
+    height: 900px;
 }
 
+.dear3 .noidung1 {
+    max-width: 840px;
+    padding-top: 6%;
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+    margin-left: 22%;
+}
+
+.dear3 .anh4 {
+    position: absolute;
+}
+
+.dear3 .title-sm1{
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: -47px;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+}
+
+.dear3 .title1{
+    font-size: 40px;
+    line-height: 46px;
+    margin-bottom: 29px;
+    font-family: 'SamsungSharpSans','SamsungOne',arial, arial;
+}
+
+.dear3 .description1{
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 12px;
+}
+
+.dear3 .description2{
+    font-size: 16px;
+    margin-bottom: 19px;
+}
+
+/*end*/
+.end {
+    background: black;
+}
+
+.end .xxx{
+    color: white;
+}
+.wrap-btn-buy-now {
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 12px;
+    letter-spacing: 2.1px;
+    font-weight: bold;
+    transition: all .35s ease-in-out;
+    display: inline-block;
+    text-align: center;
+    background-color: transparent;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    text-transform: uppercase;
+    border-radius: 58px;
+    box-sizing: border-box;
+    color: #fff;
+    border-color: #fff;
+    text-decoration: none;
+  }
