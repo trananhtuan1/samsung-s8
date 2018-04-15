@@ -354,6 +354,15 @@ img {
   padding-bottom: 150px;
 }
 
+.section-landing {
+  position: relative;
+}
+
+
+.section-landing .bg {
+  display: block;
+}
+
 .section-landing .introduction {
   font-size: 28px;
   line-height: 36px;
@@ -371,6 +380,10 @@ img {
   left: 0;
   right: 0;
   color: #fff;
+}
+
+.section-landing.no-bg .wrap-content{
+  position: static !important;
 }
 
 .section-landing .wrap-content .btn-primary {
